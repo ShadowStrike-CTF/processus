@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "processus"
 version = "0.0.1"
-description = "Legal action and proceedings tracker — Disciplina. by Strategos."
+description = "Strategos tool. Coming soon."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
